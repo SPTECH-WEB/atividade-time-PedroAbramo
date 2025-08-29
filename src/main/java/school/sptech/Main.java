@@ -1,8 +1,8 @@
 package school.sptech;
 
-public class Main {
+public class Main extends Time{
 
-    public static void main(String[] args) {
+    public void main(String[] args) {
 
     }
 }
